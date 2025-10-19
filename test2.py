@@ -1,0 +1,1 @@
+print("Apna samay shubh ho!")
